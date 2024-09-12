@@ -2,3 +2,4 @@
 macOS Sonoma Versjon 14.6.1
 Username: marionrasmussen
 git version 2.46.0
+endring for å vise git add, commit, push
